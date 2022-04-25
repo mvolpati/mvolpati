@@ -1,6 +1,6 @@
 Projects
 
-Scope of Nodejs projects:
+**List of Nodejs components:**
 
 - Buffer
 - Leitura de arquivos
@@ -44,3 +44,7 @@ Scope of Nodejs projects:
 - Web Stream API
 - Worker threads
 - ZLIB
+
+**List of projects and used components**
+
+1. Project 1
